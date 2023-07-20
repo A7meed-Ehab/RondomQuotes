@@ -1,0 +1,25 @@
+.head-text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+.middle-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.quotes{
+    width: 30%;
+    height: 25vh;
+    
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+}
+p{
+    color: red;
+}
